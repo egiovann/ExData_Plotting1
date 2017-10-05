@@ -1,7 +1,7 @@
 library(plyr)
 
 ## Set your working directory
-setwd()
+setwd("")
 ## Set the location of the data "household_power_consumption.txt"
 data_path <-""
 
